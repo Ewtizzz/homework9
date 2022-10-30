@@ -33,7 +33,7 @@ public class Main {
         int[] arr3 = generateRandomArray();
         double sredTrat = 0;
         int days = 30;
-        int sumTrat = 0;
+        double sumTrat = 0;
         for (int i = 0; i < arr3.length; i++) {
             sumTrat += arr3[i];
         }
